@@ -1,0 +1,11 @@
+C:\C#\source\repos\SpaceShip\SpaceShip\bin\Debug\SpaceShip.exe.config
+C:\C#\source\repos\SpaceShip\SpaceShip\bin\Debug\SpaceShip.exe
+C:\C#\source\repos\SpaceShip\SpaceShip\bin\Debug\SpaceShip.pdb
+C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csprojResolveAssemblyReference.cache
+C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.Properties.Resources.resources
+C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csproj.GenerateResource.Cache
+C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csproj.CoreCompileInputs.cache
+C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.exe
+C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.pdb
+C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.form1.resources
+C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.Form2.resources
