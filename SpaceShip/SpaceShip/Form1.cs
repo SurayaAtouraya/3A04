@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -28,9 +29,8 @@ namespace SpaceShip
 
         private void Start_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Form3 f = new Form3();
-            f.ShowDialog();
+            Process.Start("SpaceShip_Game.exe");
+            Application.Exit();
         }
 
         private void Setting_Click(object sender, EventArgs e)

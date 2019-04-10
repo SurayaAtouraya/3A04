@@ -9,3 +9,13 @@ C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.exe
 C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.pdb
 C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.form1.resources
 C:\C#\source\repos\SpaceShip\SpaceShip\obj\Debug\SpaceShip.Form2.resources
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\bin\Debug\SpaceShip.exe.config
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\bin\Debug\SpaceShip.exe
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\bin\Debug\SpaceShip.pdb
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csprojResolveAssemblyReference.cache
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.form1.resources
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.Form2.resources
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.Properties.Resources.resources
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csproj.GenerateResource.Cache
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.exe
+C:\Users\owenj\Desktop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.pdb
